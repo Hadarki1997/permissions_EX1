@@ -6,3 +6,6 @@ The application's login functionality comprises the following criteria for user 
 4. **Battery Saver Mode:** The application ensures that the device is not operating in battery saver mode.
 
 Only when all the aforementioned conditions are met, users are granted access to the application.
+
+
+
