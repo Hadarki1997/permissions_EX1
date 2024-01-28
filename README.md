@@ -7,5 +7,5 @@ The application's login functionality comprises the following criteria for user 
 
 Only when all the aforementioned conditions are met, users are granted access to the application.
 
-
+https://github.com/Hadarki1997/permissions_EX1/assets/95416402/89fa5b00-d2bd-4fe6-ab61-8547b589681e
 
